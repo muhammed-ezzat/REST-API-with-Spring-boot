@@ -18,12 +18,18 @@ java -jar target/REST-API-with-Spring-boot-0.0.1-SNAPSHOT.jar
 
 ## RESTful API Server
 
-### GET /api/v1/users   // list all users
+// list all users
+### GET /api/v1/users   
 
-### POST /api/v1/users  // add user to database
+// add user to database
+### POST /api/v1/users  
 
-### GET /api/v1/users/{userId}    // retrieve user informaton
+// retrieve user informaton
+### GET /api/v1/users/{userId}   
 
-### PUT /api/v1/users/{userId}    // change user information
+// change user information
+### PUT /api/v1/users/{userId}    
  
-### DELETE /api/v1/users/{userId} // delete user form database
+// delete user form database
+
+### DELETE /api/v1/users/{userId} 
