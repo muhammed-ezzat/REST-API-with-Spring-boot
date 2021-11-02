@@ -2,15 +2,15 @@
 
 ## Steps to Setup
 
--  Clone the application
+**1- Clone the application**
 
 git clone git@github.com:muhammed-ezzat/REST-API-with-Spring-boot.git
 
-- Open Mongodb database
+**2- Open Mongodb database**
 
 in terminal print "mongod"
 
-- Build and run the app using maven
+**3- Build and run the app using maven**
 
 mvn package
 
