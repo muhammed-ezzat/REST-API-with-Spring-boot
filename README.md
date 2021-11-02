@@ -24,7 +24,7 @@ GET /api/v1/users
 ### Add user to database
 POST /api/v1/users            
 
-### Retrieve user informaton
+### Retrieve user information
 GET /api/v1/users/{userId}    
 
 ### change user information
