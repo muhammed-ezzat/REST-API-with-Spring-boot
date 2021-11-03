@@ -1,4 +1,4 @@
-# REST-API-with-Spring-boot
+# REST API with Spring boot and Mongodb
 
 ## Steps to Setup
 
